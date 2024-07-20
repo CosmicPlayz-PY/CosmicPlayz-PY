@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CosmicPlayz-PY
-- 👀 I’m interested in coding and anime
-- 🌱 I’m currently learning Computer science and digital technology
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me dont
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: POLPOP
+👋 Hi, I’m @CosmicPlayz-PY
+  I hope that any programs that i make everyone who uses them can enjoy them 😁
 
 <!---
 CosmicPlayz-PY/CosmicPlayz-PY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
